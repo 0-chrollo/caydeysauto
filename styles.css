@@ -674,7 +674,7 @@ gap:50px;
       }
     
       .rv-dot.active {
-        background: #890b0b;
+        background: linear-gradient(115deg,  #072639 0%,  #0f6292 100%);
         transform: scale(1.35);
       }
     
@@ -960,7 +960,7 @@ gap:50px;
         background-image: url('pics/person-car.jpg');
         background-size: cover;
         background-position: center;
-        max-height:200vh;
+        max-height:230vh;
         background-color: #c8b89a;
       }
   
@@ -975,7 +975,7 @@ gap:50px;
       .faw-service-img {
         flex: 0 0 38%;
         max-width: 38%;
-        background-image: url('pics/many-cars.jpg');
+        background-image: url('assets/happycust.jpg');
         background-size: cover;
         background-position: center;
         min-height: 380px;
@@ -1476,7 +1476,7 @@ gap:50px;
         
           .scroll-bar-track {
             flex: 1;
-            height: 9px;
+            height: 10px;
             background: rgb(179, 179, 179);
             border-radius: 10px;
             overflow: hidden;
@@ -1485,7 +1485,7 @@ gap:50px;
           .scroll-bar-thumb {
             height: 100%;
             width: 30%;
-            background: linear-gradient(115deg, #a50f0f 0%,  #580808 100%);
+            background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
             border-radius: 10px;
             transition: width 0.1s;
           }
@@ -1549,7 +1549,7 @@ gap:50px;
         font-family: 'Barlow Condensed', sans-serif;
         font-size: 1.3rem;
         font-weight: 600;
-        color: #a51616;
+        color: #094179;
         line-height: 1;
         letter-spacing: .07em;
       }
@@ -1631,7 +1631,7 @@ gap:50px;
   
       /* Footer strip */
       .loc-card .loc-footer {
-        background: linear-gradient(115deg, #a50f0f 0%,  #580808 100%);
+        background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
         padding: 16px 20px;
         display: flex;
         align-items: center;

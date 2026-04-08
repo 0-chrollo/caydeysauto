@@ -114,7 +114,7 @@
     text-align: center;
     padding: 2rem;
     overflow: hidden;
-    background: linear-gradient(115deg, #8e0f0f 0%,  #b01010 100%);
+    background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
 }
 
 
@@ -288,7 +288,7 @@ select:hover {
     font-weight: 600;
     border: none;
     border-radius: 2px;
-    background: linear-gradient(115deg, #8e0f0f 0%,  #b01010 100%);
+    background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
     color: white;
     cursor: pointer;
     transition: background-color 0.2s;
@@ -474,7 +474,7 @@ select:hover {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(115deg, #a50f0f 0%,  #580808 100%);
+    background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
     color: white;
     padding: 6px 10px;
     font-size: 11px;
@@ -538,7 +538,7 @@ font-weight: 400;
 text-transform: uppercase;
 letter-spacing: 1px;
 color: #ffffff;
-background: linear-gradient(115deg, #a50f0f 0%,  #580808 100%);
+background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
 border: 3px solid #ffffff;
 border-radius: 50px;
 width: fit-content;
@@ -551,7 +551,7 @@ width: fit-content;
 .card-button {
     width: 100%;
     padding: 10px 20px;
-    background: linear-gradient(115deg, #a50f0f 0%,  #580808 100%);
+    background: linear-gradient(115deg,  #072639 0%,  #0c4c71 100%);
     color: white;
     border: none;
     font-size: 14px;
